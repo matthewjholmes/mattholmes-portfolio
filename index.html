@@ -46,7 +46,7 @@ permalink: /
     button.addEventListener("click", () => {
       navigator.clipboard.writeText(email).then(() => {
         const originalText = button.innerHTML;
-        button.innerHTML = "✅ Copied!";
+        button.innerHTML = "Copied!";
         setTimeout(() => {
           button.innerHTML = originalText;
         }, 2000);
