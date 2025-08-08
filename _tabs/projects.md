@@ -8,7 +8,7 @@ Here’s a selection of projects I’ve built to solve problems, explore new tec
 
 ---
 <div class="d-flex justify-content-between align-items-baseline flex-wrap mb-2">
-  <h2 class="runa">Runa</h2>
+  <h2 id="runa">Runa</h2>
   <em class="text-end" style="font-size: 1.25rem;">Book-based encryption</em>
 </div>
 
@@ -23,7 +23,7 @@ An encryption app with a suite of tools that uses published books as the code re
 
 ---
 <div class="d-flex justify-content-between align-items-baseline flex-wrap mb-2">
-  <h2 class="overhead">Overhead Flight Controller</h2>
+  <h2 id="overhead">Overhead Flight Controller</h2>
   <em class="text-end" style="font-size: 1.25rem;">Raspberry Pi Airspace Display</em>
 </div>
 
@@ -39,7 +39,7 @@ A custom Raspberry Pi dashboard that displays real-time air traffic overhead usi
 
 ---
 <div class="d-flex justify-content-between align-items-baseline flex-wrap mb-2">
-  <h2 class="server">Home Server</h2>
+  <h2 id="server">Home Server</h2>
   <em class="text-end" style="font-size: 1.25rem;">Hardened Ubuntu on Repurposed iMac</em>
 </div>
 
@@ -54,7 +54,7 @@ I converted a 2011 iMac into a secure, resilient home server running Ubuntu Serv
 
 ---
 <div class="d-flex justify-content-between align-items-baseline flex-wrap mb-2">
-  <h2 class="komodo">Komodo</h2>
+  <h2 id="komodo">Komodo</h2>
   <em class="text-end" style="font-size: 1.25rem;">Harm Reduction Timer App (Team Project)</em>
 </div>
 
@@ -69,7 +69,7 @@ Komodo supports users engaging in high-risk activities by sending emergency aler
 
 ---
 <div class="d-flex justify-content-between align-items-baseline flex-wrap mb-2">
-  <h2 class="dogoodr">DoGoodr</h2>
+  <h2 id="dogoodr">DoGoodr</h2>
   <em class="text-end" style="font-size: 1.25rem;">Volunteer Event Matching (Team Project)</em>
 </div>
 
