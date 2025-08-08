@@ -35,7 +35,7 @@ A custom Raspberry Pi dashboard that displays real-time air traffic overhead usi
 - Designed for headless Raspberry Pi deployment
 - GPS receiver integration in progress
 
-[Overhead FLight Controller on GitHub](https://github.com/matthew-j-holmes/overhead-flight-controller)
+[Overhead Flight Controller on GitHub](https://github.com/matthew-j-holmes/overhead-flight-controller)
 
 ---
 <div class="d-flex justify-content-between align-items-baseline flex-wrap mb-2">
