@@ -39,5 +39,5 @@ Send me an [email](mailto:matthewjustinholmes@gmail.com), or you can check out w
 
 Thanks for stopping by.
 
-<script data-goatcounter="https://mattholmes.goatcounter.com/count"
+<script data-goatcounter="https://stats.mattholmes.dev/count"
         async src="//gc.zgo.at/count.js"></script>

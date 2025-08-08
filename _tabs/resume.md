@@ -7,5 +7,5 @@ order: 3
 > Add Markdown syntax content to file `_tabs/resume.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip }
 
-<script data-goatcounter="https://mattholmes.goatcounter.com/count"
+<script data-goatcounter="https://stats.mattholmes.dev/count"
         async src="//gc.zgo.at/count.js"></script>

@@ -85,5 +85,5 @@ DoGoodr connects nonprofits with potential volunteers through a filterable, tag-
 
 Have questions about any of these? [Email me](mailto:matthewjustinholmes@gmail.com) or [reach out on GitHub](https://github.com/matthew-j-holmes).
 
-<script data-goatcounter="https://mattholmes.goatcounter.com/count"
+<script data-goatcounter="https://stats.mattholmes.dev/count"
         async src="//gc.zgo.at/count.js"></script>
