@@ -38,3 +38,6 @@ I’ve worked on:
 Send me an [email](mailto:matthewjustinholmes@gmail.com), or you can check out what I’m working on over on [GitHub](https://github.com/matthew-j-holmes).
 
 Thanks for stopping by.
+
+<script data-goatcounter="https://mattholmes.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
