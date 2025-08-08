@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://mattholmes.dev/about/</loc>
-<lastmod>2025-08-07T16:37:05-07:00</lastmod>
+<loc>https://matthew-j-holmes.github.io/mattholmes-portfolio/about/</loc>
+<lastmod>2025-08-07T17:34:06-07:00</lastmod>
 </url>
 <url>
-<loc>https://mattholmes.dev/projects/</loc>
-<lastmod>2025-08-07T16:37:05-07:00</lastmod>
+<loc>https://matthew-j-holmes.github.io/mattholmes-portfolio/projects/</loc>
+<lastmod>2025-08-07T17:34:06-07:00</lastmod>
 </url>
 <url>
-<loc>https://mattholmes.dev/resume/</loc>
-<lastmod>2025-08-07T16:37:05-07:00</lastmod>
+<loc>https://matthew-j-holmes.github.io/mattholmes-portfolio/resume/</loc>
+<lastmod>2025-08-07T17:34:06-07:00</lastmod>
 </url>
 <url>
-<loc>https://mattholmes.dev/</loc>
+<loc>https://matthew-j-holmes.github.io/mattholmes-portfolio/</loc>
 </url>
 </urlset>
