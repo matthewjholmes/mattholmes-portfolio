@@ -17,7 +17,7 @@ tagline: Full-Stack Developer | Ruby, Python, JS (and aspiring DevOps)
 description: >- # used by seo meta and the atom feed
   Portfolio and occasional thoughts of Matt Holmes.
 
-url: "https://matthew-j-holmes.github.io"
+url: "mattholmes.dev"
 
 github:
   username: matthew-j-holmes
@@ -79,7 +79,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "/mattholmes-portfolio"
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
