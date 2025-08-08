@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://matthew-j-holmes.github.io/mattholmes-portfolio/sitemap.xml
+Sitemap: mattholmes.dev/sitemap.xml
