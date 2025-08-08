@@ -1,4 +1,52 @@
 [
-  
+  {
+    "title": "Runa — Book-Based Encryption",
+    "url": "/projects/#runa",
+    "content": "Encryption app using published books as one-time pads or codebooks. Includes arbitrary code-word and matrix encryption models. Parses and indexes PDF source texts with pagination normalization (Roman numerals, indices). Designed for offline use."
+  },
+  {
+    "title": "Runa — PDF Parsing and Indexing",
+    "url": "/projects/#runa",
+    "content": "Runa parses PDFs to extract page, line, and word references, normalizing pagination formats. Indexing enables fast and consistent encryption/decryption. Explores low-tech cryptography models."
+  },
+  {
+    "title": "Overhead Flight Controller — Raspberry Pi Airspace Display",
+    "url": "/projects/#overhead",
+    "content": "Raspberry Pi dashboard for real-time air traffic using OpenSky Network. Displays aircraft metadata (origin, type, altitude) on InkyWHAT e-ink display. Designed for headless deployment. GPS integration in progress."
+  },
+  {
+    "title": "Overhead Flight Controller — OpenSky Integration",
+    "url": "/projects/#overhead",
+    "content": "Uses OpenSky Network API to fetch and correlate flight data. Aircraft metadata is rendered on a custom always-on dashboard using e-ink. Built for Raspberry Pi with external API enrichment."
+  },
+  {
+    "title": "Home Server — Hardened Ubuntu on Repurposed iMac",
+    "url": "/projects/#server",
+    "content": "Converted 2011 iMac into an Ubuntu Server. Hosts static and dynamic web apps via Docker. Includes automated backups, DNS failover, SSH hardening, and Tailscale VPN for private remote access."
+  },
+  {
+    "title": "Home Server — DevOps Stack",
+    "url": "/projects/#server",
+    "content": "Dockerized deployment of services with Nginx reverse proxy and HTTPS via Let’s Encrypt. Tailscale for remote access. Local/cloud backup routines and firewall automation included."
+  },
+  {
+    "title": "Komodo — Harm Reduction App (Team Project)",
+    "url": "/projects/#komodo",
+    "content": "Countdown timer and alert system for high-risk users. Sends emergency Twilio SMS alerts based on geolocation and unresponsiveness. Built with Redis, collaborative map-based frontend, and backend timers."
+  },
+  {
+    "title": "Komodo — Twilio + Geolocation Integration",
+    "url": "/projects/#komodo",
+    "content": "Emergency alert system using Twilio SMS, Redis timers, and GPS-based check-ins. Map-based UI tracks user location. Developed as a collaborative project for harm reduction."
+  },
+  {
+    "title": "DoGoodr — Volunteer Matching App (Team Project)",
+    "url": "/projects/#dogoodr",
+    "content": "Platform that connects volunteers with nonprofit events. Filterable event listings by tag, date, and organization. Backend built with RESTful API and database designed for search and user interaction."
+  },
+  {
+    "title": "DoGoodr — API and Search Backend",
+    "url": "/projects/#dogoodr",
+    "content": "Designed REST API powering event search and discovery. Handles tag filtering, organization queries, and user interaction tracking. Delivered as a team capstone project."
+  }
 ]
-
