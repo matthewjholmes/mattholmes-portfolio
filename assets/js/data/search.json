@@ -69,7 +69,7 @@
     "content": "Designed REST API powering event search and discovery. Handles tag filtering, organization queries, and user interaction tracking. Delivered as a team capstone project.",
     "category": "Projects",
     "tags":  ["api", "database", "filters", "backend", "restful"]
-  }
+  },
   {
     "title": "About Matt Holmes — Full-Stack Developer",
     "url": "/about/",
