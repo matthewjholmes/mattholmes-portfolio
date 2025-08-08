@@ -3,28 +3,28 @@
     "title": "Runa — Book-Based Encryption",
     "url": "/projects/#runa",
     "content": "Encryption app using published books as one-time pads or codebooks. Includes arbitrary code-word and matrix encryption models. Parses and indexes PDF source texts with pagination normalization (Roman numerals, indices). Designed for offline use.",
-    "category": "Projects",
+    "categories": "Projects",
     "tags": ["ruby", "encryption", "cryptography", "offline", "codebook", "security"]
   },
   {
     "title": "Runa — PDF Parsing and Indexing",
     "url": "/projects/#runa",
     "content": "Runa parses PDFs to extract page, line, and word references, normalizing pagination formats. Indexing enables fast and consistent encryption/decryption. Explores low-tech cryptography models.",
-    "category": "Projects",
+    "categories": "Projects",
     "tags": ["pdf", "parser", "indexing", "roman numerals", "low-tech"]
   },
   {
     "title": "Overhead Flight Controller — Raspberry Pi Airspace Display",
     "url": "/projects/#overhead",
     "content": "Raspberry Pi dashboard for real-time air traffic using OpenSky Network. Displays aircraft metadata (origin, type, altitude) on InkyWHAT e-ink display. Designed for headless deployment. GPS integration in progress.",
-    "category": "Projects",
+    "categories": "Projects",
     "tags": ["raspberry pi", "opensky", "e-ink", "air traffic", "hardware"]
   },
   {
     "title": "Overhead Flight Controller — OpenSky Integration",
     "url": "/projects/#overhead",
     "content": "Uses OpenSky Network API to fetch and correlate flight data. Aircraft metadata is rendered on a custom always-on dashboard using e-ink. Built for Raspberry Pi with external API enrichment.",
-    "category": "Projects",
+    "categories": "Projects",
     "tags": ["api", "flight data", "aircraft", "external api", "opensky"]
 
   },
@@ -32,77 +32,77 @@
     "title": "Home Server — Hardened Ubuntu on Repurposed iMac",
     "url": "/projects/#server",
     "content": "Converted 2011 iMac into an Ubuntu Server. Hosts static and dynamic web apps via Docker. Includes automated backups, DNS failover, SSH hardening, and Tailscale VPN for private remote access.",
-    "category": "Projects",
+    "categories": "Projects",
     "tags": ["ubuntu", "server", "self-hosted", "tailscale", "failover"]
   },
   {
     "title": "Home Server — DevOps Stack",
     "url": "/projects/#server",
     "content": "Dockerized deployment of services with Nginx reverse proxy and HTTPS via Let's Encrypt. Tailscale for remote access. Local/cloud backup routines and firewall automation included.",
-    "category": "Projects",
+    "categories": "Projects",
     "tags": ["docker", "nginx", "letsencrypt", "backup", "vpn", "linux"]
   },
   {
     "title": "Komodo — Harm Reduction App (Team Project)",
     "url": "/projects/#komodo",
     "content": "Countdown timer and alert system for high-risk users. Sends emergency Twilio SMS alerts based on geolocation and unresponsiveness. Built with Redis, collaborative map-based frontend, and backend timers.",
-    "category": "Projects",
+    "categories": "Projects",
     "tags": ["twilio", "geolocation", "harm reduction", "redis", "safety"]
   },
   {
     "title": "Komodo — Twilio + Geolocation Integration",
     "url": "/projects/#komodo",
     "content": "Emergency alert system using Twilio SMS, Redis timers, and GPS-based check-ins. Map-based UI tracks user location. Developed as a collaborative project for harm reduction.",
-    "category": "Projects",
+    "categories": "Projects",
     "tags": ["twilio", "gps", "alerts", "team project", "sms"]
   },
   {
     "title": "DoGoodr — Volunteer Matching App (Team Project)",
     "url": "/projects/#dogoodr",
     "content": "Platform that connects volunteers with nonprofit events. Filterable event listings by tag, date, and organization. Backend built with RESTful API and database designed for search and user interaction.",
-    "category": "Projects",
+    "categories": "Projects",
     "tags": ["volunteering", "events", "nonprofits", "team project", "search"]
   },
   {
     "title": "DoGoodr — API and Search Backend",
     "url": "/projects/#dogoodr",
     "content": "Designed REST API powering event search and discovery. Handles tag filtering, organization queries, and user interaction tracking. Delivered as a team capstone project.",
-    "category": "Projects",
+    "categories": "Projects",
     "tags":  ["api", "database", "filters", "backend", "restful"]
   },
   {
     "title": "About Matt Holmes — Full-Stack Developer",
     "url": "/about/",
     "content": "Full-stack developer working with Ruby, Python, and JavaScript. Focused on building resilient, maintainable software across front-end and back-end systems. Experience with Ruby on Rails, PostgreSQL, and API integration.",
-    "category": "About",
+    "categories": "About",
     "tags": ["ruby", "python", "javascript", "full-stack", "rails"]
   },
   {
     "title": "Currently Exploring — DevOps, Cryptography, Raspberry Pi",
     "url": "/about/",
     "content": "Actively exploring DevOps automation, security fundamentals, Raspberry Pi hardware projects, and GPIO programming. Interested in backend workflows, server provisioning, and encrypted systems.",
-    "category": "About",
+    "categories": "About",
     "tags": ["devops", "cryptography", "raspberry pi", "gpio", "automation"]
   },
   {
     "title": "Software Experience and Interests",
     "url": "/about/",
     "content": "Interested in turning complex backend systems and API integrations into low-friction UIs. Experience building CLI tools, static and dynamic sites, and experimental projects using scripting, automation, and full-stack tools.",
-    "category": "About",
+    "categories": "About",
     "tags": ["cli", "api", "web apps", "server", "integration"]
   },
   {
     "title": "Background and Education",
     "url": "/about/",
     "content": "Background includes work as a mountain guide, paramedic, counselor, and educator. Currently studying Computer Science at San Francisco State University (since 2025).",
-    "category": "About",
+    "categories": "About",
     "tags": ["sfsu", "computer science", "paramedic", "guide", "education"]
   },
   {
     "title": "Connect with Matt Holmes",
     "url": "/about/",
     "content": "Reach out via email or GitHub. Open to collaboration and discussion around backend development, server infrastructure, DevOps, or education in tech.",
-    "category": "About",
+    "categories": "About",
     "tags": ["contact", "email", "github", "connect", "developer"]
   }
 ]
