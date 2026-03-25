@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /found/f3k9m2/
+permalink: /found/foundf33d/
 title: Device Contact
 sitemap: false
 ---
